@@ -1,4 +1,3 @@
-# FUTURE_FS_03
 # PatagonAI — AI Redesign (Next.js + Tailwind + Firebase/Strapi-ready)
 
 This is a **unique AI-assisted concept redesign** of an outdoor brand. It ships with:

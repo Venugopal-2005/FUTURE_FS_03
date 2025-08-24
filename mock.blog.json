@@ -1,0 +1,16 @@
+[
+  {
+    "id": "welcome-ai",
+    "title": "How We Used AI to Rethink an Outdoor Icon",
+    "excerpt": "Exploring color systems, accessibility and motion that reflect modern brand values.",
+    "cover": "/hero.svg",
+    "date": "2025-08-24"
+  },
+  {
+    "id": "sustainability-2025",
+    "title": "Sustainability Report: Materials & Circularity",
+    "excerpt": "Traceability, repair culture, and low-impact dyes in our concept roadmap.",
+    "cover": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1200&auto=format&fit=crop",
+    "date": "2025-08-20"
+  }
+]
